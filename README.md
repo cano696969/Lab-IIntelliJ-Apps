@@ -1,11 +1,11 @@
 Studio/ Apps <p align="center">
-    <h2 align="center">Android Studio Apps</h2>
+    <h2 align="center">IntelliJ-IDEA</h2>
     <h3 align="center">Apps Beta integrations</h3>
 </p>
 
 <div class="contenedor deslizante" style="ancho: 70%; margen: auto;">
 
- <p align="justify">Este repositorio contiene material didáctico y ejercicios prácticos para un curso de introducción a Java utilizando el entorno de desarrollo Eclipse. El curso está diseñado para brindar a los estudiantes una sólida comprensión de los fundamentos de la programación en Java, así como familiarizarlos con las características y herramientas proporcionadas por Eclipse para el desarrollo de software. Los materiales incluyen tutoriales paso a paso, ejemplos de código y proyectos prácticos para ayudar a los estudiantes a desarrollar sus habilidades en Java y Eclipse.</p>
+ <p align="justify">laboratorio de pruebas de aplicaciones! Este repositorio es un espacio dedicado a la experimentación con diversos frameworks y tecnologías utilizando IntelliJ IDEA y Kotlin como base. Desde las últimas tendencias en desarrollo móvil hasta las innovaciones en aplicaciones web, aquí encontrarás proyectos de prueba, ejemplos y documentación para explorar y aprender. Únete a nosotros mientras exploramos el futuro del desarrollo de aplicaciones."</p>
   <p align="center">
      <a href="#">
             <img src="https://img.shields.io/badge/Sistema%20Operativo-Windows-blue?style=for-the-badge&logo=windows" alt="Sistema Operativo Windows">
